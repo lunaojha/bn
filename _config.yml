@@ -22,7 +22,7 @@ url: "https://lunaojha.github.io/bn/" # the base hostname & protocol for your si
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "/page:num/"
-logo: "/images/weblogo.jpg"
+logo: "/images/weblogo.png"
 github_username: lunaojha
 disqus: lunaojha
 
